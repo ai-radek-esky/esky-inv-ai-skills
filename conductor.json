@@ -1,0 +1,6 @@
+{
+  "name": "esky-inv-ai-skills",
+  "description": "Claude Code skills marketplace for the eSky Inventory team",
+  "version": "1.0.0",
+  "skills_dir": "plugin/skills"
+}
